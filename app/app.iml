@@ -89,7 +89,6 @@
     <orderEntry type="library" exported="" name="arca-dispatcher-1.0-beta.4-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="okio-1.2.0" level="project" />
     <orderEntry type="library" exported="" name="picasso-2.5.0" level="project" />
-    <orderEntry type="library" exported="" name="support-v4-21.0.3" level="project" />
     <orderEntry type="library" exported="" name="okhttp-2.2.0" level="project" />
     <orderEntry type="library" exported="" name="arca-service-1.0-beta.4-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="arca-broadcaster-1.0-beta.4-SNAPSHOT" level="project" />
@@ -103,7 +102,17 @@
     <orderEntry type="library" exported="" name="appcompat-v7-21.0.3" level="project" />
     <orderEntry type="library" exported="" name="arca-provider-1.0-beta.4-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="arca-monitor-1.0-beta.4-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="support-annotations-21.0.3" level="project" />
     <orderEntry type="library" exported="" name="arca-fragments-1.0-beta.4-SNAPSHOT" level="project" />
+    <orderEntry type="module-library">
+      <library name="JUnit4">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.11.jar!/" />
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/hamcrest-library-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
